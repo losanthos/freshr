@@ -1,0 +1,4 @@
+Game.of.Thrones.S07*.*1080.* /home/user/watch/GameofThrones/
+The.Expanse.S03*720p* /home/user/watch/TheExpanse/
+The.Walking.Dead.S09*720p* /home/user/watch/WalkingDead/
+Gotham.S04E2*720p*WEB* /home/user/watch/Gotham/
