@@ -1,11 +1,11 @@
 #!/bin/bash
 
-logfile="/home/plex/bin/freshr.log"
-cookies="/home/plex/bin/cookies.txt"
-rssfeed="https://immortalseed.me/rss.php?secret_key=cb07d95abdba3a5c861eb10e2f31aa54&feedtype=download&timezone=-5&showrows=5&categories=8"
-wgetlog="/home/plex/bin/wget.log"
-feedrfile="/home/plex/bin/feedr.txt"
-findrfile="/home/plex/bin/findr.txt"
+logfile="/home/user/bin/freshr.log"
+cookies="/home/user/bin/cookies.txt"
+rssfeed="https:/url.com/rss.xml"
+wgetlog="/home/user/bin/wget.log"
+feedrfile="/home/user/bin/feedr.txt"
+findrfile="/home/user/bin/findr.txt"
 
 declare -a shows
 shows=()
