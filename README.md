@@ -15,7 +15,7 @@ List of Files
 
 *feedr.txt -- contains the downloaded rss 
 
-*freshr.sh -- code that executes; it gets the rss page (saving it in feedr.txt), then parses it into an array. From there, it searches the <title> codes for what you're looking for, and runs a wget on the associated link. You will have to edit this file, and replace the <pathto> with explicit paths to the appropriate files.
+*freshr.sh -- code that executes; it gets the rss page (saving it in feedr.txt), then parses it into an array. From there, it searches the <title> codes for what you're looking for, and runs a wget on the associated link. You will have to edit this file, and set the path/user to the appropriate places, and put your rss url in as well.
 
 *freshr.log -- basic logging for when the script is run
 
